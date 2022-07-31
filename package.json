@@ -1,0 +1,17 @@
+{
+  "name": "react-dnd-moving-between-lists-array",
+  "version": "1.0.0",
+  "description": "An example of having multiple drop targets using react-beautiful-dnd",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/k260nyxq9v",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "moment": "2.24.0",
+    "react": "16.9.0",
+    "react-beautiful-dnd": "11.0.5",
+    "react-dom": "16.9.0",
+    "react-icons": "3.7.0",
+    "styled-components": "4.3.2"
+  }
+}
